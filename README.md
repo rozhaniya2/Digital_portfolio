@@ -63,7 +63,7 @@
 
 <header>
     Rozhaniya P <br>
-    <small>Software Developer</small>
+    <small>Student</small>
 </header>
 
 <nav>
